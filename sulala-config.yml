@@ -1,0 +1,10 @@
+# Sulala Agent Configuration
+server:
+  port: 3000
+  host: 0.0.0.0
+
+# Enable dashboard
+dashboard: true
+
+# Agents directory
+agentsDir: ./agents
